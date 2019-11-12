@@ -1,0 +1,13 @@
+.\Obj\ip_arp_udp_tcp.o: ..\Libraries\Ethernet\Net\ip_arp_udp_tcp.c
+.\Obj\ip_arp_udp_tcp.o: ..\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h
+.\Obj\ip_arp_udp_tcp.o: ..\Libraries\CMSIS\CM3\CoreSupport\core_cm3.h
+.\Obj\ip_arp_udp_tcp.o: C:\Keil\ARM\RV31\Inc\stdint.h
+.\Obj\ip_arp_udp_tcp.o: ..\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.h
+.\Obj\ip_arp_udp_tcp.o: ..\USER\stm32f10x_conf.h
+.\Obj\ip_arp_udp_tcp.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h
+.\Obj\ip_arp_udp_tcp.o: ..\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h
+.\Obj\ip_arp_udp_tcp.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h
+.\Obj\ip_arp_udp_tcp.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h
+.\Obj\ip_arp_udp_tcp.o: ..\Libraries\Ethernet\Net\ip_arp_udp_tcp.h
+.\Obj\ip_arp_udp_tcp.o: ..\Libraries\Ethernet\Net\net.h
+.\Obj\ip_arp_udp_tcp.o: ..\Libraries\Ethernet\enc28j60\ENC28J60.h

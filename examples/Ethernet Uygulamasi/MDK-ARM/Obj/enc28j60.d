@@ -1,0 +1,12 @@
+.\Obj\enc28j60.o: ..\Libraries\Ethernet\enc28j60\ENC28J60.C
+.\Obj\enc28j60.o: ..\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h
+.\Obj\enc28j60.o: ..\Libraries\CMSIS\CM3\CoreSupport\core_cm3.h
+.\Obj\enc28j60.o: C:\Keil\ARM\RV31\Inc\stdint.h
+.\Obj\enc28j60.o: ..\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.h
+.\Obj\enc28j60.o: ..\USER\stm32f10x_conf.h
+.\Obj\enc28j60.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h
+.\Obj\enc28j60.o: ..\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h
+.\Obj\enc28j60.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h
+.\Obj\enc28j60.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h
+.\Obj\enc28j60.o: ..\Libraries\Ethernet\enc28j60\ENC28J60.h
+.\Obj\enc28j60.o: ..\Libraries\Ethernet\enc28j60\SPI.h

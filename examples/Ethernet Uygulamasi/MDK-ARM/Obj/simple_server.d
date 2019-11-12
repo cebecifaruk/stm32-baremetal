@@ -1,0 +1,15 @@
+.\Obj\simple_server.o: ..\Libraries\Ethernet\Net\simple_server.c
+.\Obj\simple_server.o: ..\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h
+.\Obj\simple_server.o: ..\Libraries\CMSIS\CM3\CoreSupport\core_cm3.h
+.\Obj\simple_server.o: C:\Keil\ARM\RV31\Inc\stdint.h
+.\Obj\simple_server.o: ..\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.h
+.\Obj\simple_server.o: ..\USER\stm32f10x_conf.h
+.\Obj\simple_server.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h
+.\Obj\simple_server.o: ..\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h
+.\Obj\simple_server.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h
+.\Obj\simple_server.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h
+.\Obj\simple_server.o: ..\Libraries\Ethernet\Net\net.h
+.\Obj\simple_server.o: ..\Libraries\Ethernet\enc28j60\ENC28J60.h
+.\Obj\simple_server.o: ..\Libraries\Ethernet\Net\simple_server.h
+.\Obj\simple_server.o: ..\Libraries\Ethernet\Net\ip_arp_udp_tcp.h
+.\Obj\simple_server.o: C:\Keil\ARM\RV31\Inc\string.h
